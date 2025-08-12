@@ -4,3 +4,4 @@ numpy
 opencv-python-headless
 torch
 ultralytics
+python-multipart
