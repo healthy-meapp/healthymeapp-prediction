@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: fastapi-yolo-app
+    env: docker
+    plan: free
+    region: oregon
+    autoDeploy: true
